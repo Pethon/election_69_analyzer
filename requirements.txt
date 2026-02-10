@@ -3,3 +3,9 @@ charset-normalizer==3.4.4
 idna==3.11
 requests==2.32.5
 urllib3==2.6.3
+pandas==3.0.0
+numpy==2.4.2
+matplotlib==3.10.8
+seaborn==0.13.2
+ipykernel==7.2.0
+scipy==1.15.2
