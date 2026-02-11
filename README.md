@@ -57,6 +57,7 @@ By default, parties **06 (United Thai Nation Party)** and **09 (Pheu Thai Party)
 ## 🙏 Acknowledgments
 - **Inspiration**: Khajochorn (Khajochi) for the initial observation and analysis.
 - **Data Source**: Results are fetched from the [Thai PBS Election 69](https://www.thaipbs.or.th/election69/result/en/geo?region=all&view=area) interactive portal. We are grateful for the availability of this public information for educational and analytical purposes.
+- **area code-name map**: From [@anwam](https://github.com/anwam).
 
 ## 🤖 Built with Gemini
 This project was primarily developed with the assistance of **Gemini**. If you encounter any bugs, unexpected behavior, or inaccuracies in the analysis, please feel free to report them.
